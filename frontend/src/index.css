@@ -1,0 +1,26 @@
+.HomePage {
+  display: flex;
+  flex-direction: column;
+}
+
+.HomePage_nav {
+  margin-top: 2vh;
+}
+
+.HomePage_table {
+  width: 100vw;
+  margin-top: 4vh;
+}
+
+.HomePage_nav_new {
+  margin-left: 2vw;
+}
+
+.Actions {
+  display: flex;
+  gap: 1vw;
+}
+
+.New {
+  padding-top: 6vh;
+}
